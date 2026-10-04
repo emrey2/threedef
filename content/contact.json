@@ -1,25 +1,37 @@
 {
   "title": "Send a brief | 3Def Creative",
   "description": "Send 3Def Creative a brief for product animation, hero visuals or a launch film. Tell us about the product and where it will run.",
-
   "heading": "Send a brief",
   "intro": "Tell us about the product. We'll reply within a working day.[TODO: confirm reply-time promise]",
-
   "form": {
-    "needOptions": ["Hero visuals", "Short product spot", "Launch film", "Not sure"],
-    "channelOptions": ["Website", "Social", "Paid ads", "Other"],
-    "budgetOptions": ["Under €3,000", "€3,000 to €7,500", "€7,500 to €15,000", "Over €15,000", "Not sure yet"],
+    "needOptions": [
+      "Hero visuals",
+      "Short product spot",
+      "Launch film",
+      "Not sure"
+    ],
+    "channelOptions": [
+      "Website",
+      "Social",
+      "Paid ads",
+      "Other"
+    ],
+    "budgetOptions": [
+      "Under €3,000",
+      "€3,000 to €7,500",
+      "€7,500 to €15,000",
+      "Over €15,000",
+      "Not sure yet"
+    ],
     "_todo_budget": "[TODO: set budget ranges and currency]",
     "submit": "Send brief",
     "success": "Thanks, your brief is in. We'll reply to {email} within a working day.[TODO: confirm reply-time promise]",
     "privacy": "[TODO: confirm privacy wording]We use these details only to reply to your brief and plan the project. We don't add you to a mailing list or share your details."
   },
-
   "next": {
     "heading": "What happens next",
-    "text": "We read your brief and reply with questions or a short call suggestion. Then we send a quote with a timeline and review dates. Once you approve it, we start on the concept."
+    "text": "[TODO: confirm what happens after a brief arrives]We read your brief and reply with questions or a short call suggestion. Then we send a quote with a timeline and review dates. Once you approve it, we start on the concept."
   },
-
   "faq": {
     "heading": "Questions",
     "items": [
@@ -41,7 +53,7 @@
       },
       {
         "q": "How does pricing work?",
-        "a": "Each project is quoted on its scope: the number of shots or stills, the length, the modelling needed and the deadline. You get a fixed quote before work starts."
+        "a": "[TODO: confirm pricing approach]Each project is quoted on its scope: the number of shots or stills, the length, the modelling needed and the deadline. You get a fixed quote before work starts."
       }
     ]
   }

@@ -67,7 +67,7 @@ export function layout({ site, page, main, assets, extra = "" }) {
       <a class="logo" href="/"${page.path === "/" ? ' aria-current="page"' : ""}>
         ${logoImg("cream", "logo-default", `${esc(plain(site.name))}, home`)}
         ${page.overVideo ? logoImg("white", "logo-over-video", `${esc(plain(site.name))}, home`) : ""}
-        <img class="logo-print" src="/brand/generated/logo-black-640.png" width="640" height="164" alt="">
+        <img class="logo-print" src="/brand/generated/logo-black-640.png" width="640" height="164" alt="" loading="lazy">
       </a>
       <nav aria-label="Main">
         <ul class="nav-links" role="list">${navItems(site, current)}</ul>

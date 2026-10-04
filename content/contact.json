@@ -1,0 +1,48 @@
+{
+  "title": "Send a brief | 3Def Creative",
+  "description": "Send 3Def Creative a brief for product animation, hero visuals or a launch film. Tell us about the product and where it will run.",
+
+  "heading": "Send a brief",
+  "intro": "Tell us about the product. We'll reply within a working day.[TODO: confirm reply-time promise]",
+
+  "form": {
+    "needOptions": ["Hero visuals", "Short product spot", "Launch film", "Not sure"],
+    "channelOptions": ["Website", "Social", "Paid ads", "Other"],
+    "budgetOptions": ["Under €3,000", "€3,000 to €7,500", "€7,500 to €15,000", "Over €15,000", "Not sure yet"],
+    "_todo_budget": "[TODO: set budget ranges and currency]",
+    "submit": "Send brief",
+    "success": "Thanks, your brief is in. We'll reply to {email} within a working day.[TODO: confirm reply-time promise]",
+    "privacy": "[TODO: confirm privacy wording]We use these details only to reply to your brief and plan the project. We don't add you to a mailing list or share your details."
+  },
+
+  "next": {
+    "heading": "What happens next",
+    "text": "We read your brief and reply with questions or a short call suggestion. Then we send a quote with a timeline and review dates. Once you approve it, we start on the concept."
+  },
+
+  "faq": {
+    "heading": "Questions",
+    "items": [
+      {
+        "q": "How long does a project take?",
+        "a": "[TODO: confirm real timeframes]Hero visuals usually take one to two weeks. A short product spot takes two to four weeks, and a launch film is scheduled with you from the brief. Deadlines that are tighter than this are sometimes possible, so ask."
+      },
+      {
+        "q": "How do revisions work?",
+        "a": "[TODO: confirm revision policy]The quote includes a set number of revision rounds, with checkpoints at concept and at first animation. Changes are easiest at those points. Extra rounds beyond the quote are priced in advance."
+      },
+      {
+        "q": "Who supplies the 3D model of the product?",
+        "a": "[TODO: confirm modelling policy]If you have CAD or 3D files, send them and we'll prepare them for rendering. If not, we model the product from photos, drawings or a physical sample. Modelling time is included in the quote."
+      },
+      {
+        "q": "What formats do you deliver?",
+        "a": "[TODO: confirm delivery formats]Video as MP4 (H.264 or H.265) or ProRes, in the aspect ratios each channel needs, such as 16:9, 9:16, 4:5 and 1:1. Stills as high-resolution PNG or JPG."
+      },
+      {
+        "q": "How does pricing work?",
+        "a": "Each project is quoted on its scope: the number of shots or stills, the length, the modelling needed and the deadline. You get a fixed quote before work starts."
+      }
+    ]
+  }
+}

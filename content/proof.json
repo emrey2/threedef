@@ -1,0 +1,7 @@
+{
+  "_help": "Only add real clients and real, approved testimonials. While both lists are empty, the proof section is not shown anywhere. Client logo files go in public/media/clients/.",
+  "clients": [],
+  "_client_example": { "name": "Brand name", "logo": "media/clients/brand.svg", "url": "https://brand.example" },
+  "testimonials": [],
+  "_testimonial_example": { "quote": "Short quote, three lines at most.", "name": "Full name", "role": "Role", "company": "Company" }
+}

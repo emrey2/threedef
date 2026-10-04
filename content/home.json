@@ -1,0 +1,60 @@
+{
+  "title": "3Def Creative | Product animation studio",
+  "description": "Product animation and CGI product visuals for gaming, beauty, wellness and fashion brands. Hero visuals, short product spots and launch films from Turkey, for clients worldwide.",
+
+  "hero": {
+    "headline": "Products that move, sell.",
+    "subline": "3Def Creative is a product animation studio in Turkey, making CGI visuals for gaming, beauty, wellness and fashion brands.",
+    "primary": "See our work",
+    "reelLabel": "Watch the full reel"
+  },
+
+  "work": {
+    "heading": "Selected work",
+    "link": "View all work"
+  },
+
+  "offerings": {
+    "heading": "What we do",
+    "items": [
+      {
+        "title": "Hero visuals",
+        "text": "High-end renders and short loops of a single product, built for product pages, ads and launch assets."
+      },
+      {
+        "title": "Short product spots",
+        "text": "8 to 20 second animations for Instagram, Reels, TikTok and paid social, with a clear shot list, set revision rounds, and the formats each platform needs."
+      },
+      {
+        "title": "Launch films",
+        "text": "Longer, multi-scene films for a launch or campaign, scoped with you from your brief."
+      }
+    ],
+    "focusLine": "Products only. No VFX, no characters. That focus is why the product looks right."
+  },
+
+  "proof": {
+    "clientsHeading": "Brands and agencies we've worked with"
+  },
+
+  "process": {
+    "heading": "How it works",
+    "steps": [
+      { "title": "Brief", "time": "[TODO: confirm typical timeframe]1 to 2 days", "text": "You tell us the product, the goal and where it will run." },
+      { "title": "Concept", "time": "[TODO: confirm typical timeframe]3 to 5 days", "text": "We propose the look, the shots and the motion." },
+      { "title": "Animation", "time": "[TODO: confirm typical timeframe]1 to 3 weeks", "text": "We build, light and animate the product, with review rounds." },
+      { "title": "Delivery", "time": "[TODO: confirm typical timeframe]1 to 2 days", "text": "Final files in every format you need." }
+    ]
+  },
+
+  "about": {
+    "heading": "Why a product-only studio",
+    "text": "[TODO: owner to rewrite in their own words]I started 3Def Creative because I love advertising, and because I've seen how much a product changes when it moves well. We only animate products, so every hour goes into making yours look right.",
+    "link": "About us"
+  },
+
+  "cta": {
+    "heading": "Have a product to launch?",
+    "text": "Send us your brief and we'll reply within a working day.[TODO: confirm reply-time promise]"
+  }
+}

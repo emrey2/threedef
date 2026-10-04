@@ -1,0 +1,72 @@
+{
+  "title": "About us | 3Def Creative",
+  "description": "3Def Creative is a product-only animation studio in Turkey. Why we focus on products, what we make, and how we work with brands and agencies.",
+
+  "heading": "We make products look as good as they deserve to.",
+
+  "story": {
+    "heading": "Our story",
+    "paragraphs": [
+      "[TODO: owner to rewrite this story in their own words]I started 3Def Creative because I love advertising, and because I've seen how much a product changes when it moves well.",
+      "A good product film makes the value obvious in a few seconds: what it's made of, how it works, why it's worth the price. That only happens when the motion is right.",
+      "So we do one thing: product animation. No VFX, no characters, no side services. Just products, made to look their best."
+    ]
+  },
+
+  "focus": {
+    "heading": "Why only products",
+    "paragraphs": [
+      "Doing one kind of work every day makes us better at it. We spend our time on what makes a product shot convincing: how brushed metal, frosted glass or knit fabric catch light, how much weight a product should have when it turns, and how long a reveal should hold before the cut.",
+      "We don't do VFX, character animation or creature work, and we don't take it on as a side service."
+    ]
+  },
+
+  "offerings": {
+    "heading": "What we make",
+    "items": [
+      {
+        "title": "Hero visuals",
+        "text": "Stills and short seamless loops of a single product, lit and framed to show its materials and details.",
+        "use": "Product pages, marketplace listings, paid ads, launch assets"
+      },
+      {
+        "title": "Short product spots",
+        "text": "8 to 20 second animations built on a clear shot list, with set revision rounds and exports sized for each platform.",
+        "use": "Instagram and Reels, TikTok, paid social"
+      },
+      {
+        "title": "Launch films",
+        "text": "Longer, multi-scene films for a launch or campaign. We scope the length, shots and schedule with you from your brief.",
+        "use": "Launches, campaign films, website headers, events"
+      }
+    ]
+  },
+
+  "principles": {
+    "heading": "How we work",
+    "items": [
+      { "title": "A clear brief", "text": "Before we model anything, we agree on the product, the goal and where the work will run." },
+      { "title": "A clear timeline", "text": "You get a schedule with review dates at the start of the project." },
+      { "title": "One point of contact", "text": "One person handles your project from brief to delivery, so nothing gets lost between messages." },
+      { "title": "Set revision rounds", "text": "[TODO: confirm revision policy]Revision rounds are agreed in the quote, with checkpoints at concept and at first animation, so changes happen early." }
+    ]
+  },
+
+  "clients": {
+    "heading": "Who we work with",
+    "paragraphs": [
+      "Brands that need product visuals for a launch, a store or a campaign, and agencies that need a production partner for the 3D part of a job.",
+      "We focus on four verticals: gaming and tech peripherals, beauty, wellness and fashion."
+    ]
+  },
+
+  "location": {
+    "heading": "Where we are",
+    "text": "We're based in {city}, Turkey, and work with clients in other time zones over email and video calls. Reviews happen on shared links, so distance doesn't slow a project down."
+  },
+
+  "cta": {
+    "heading": "Have a product in mind?",
+    "text": "Tell us what it is and where it will run."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Work | 3Def Creative",
+  "description": "Product animation and CGI work by 3Def Creative for gaming, beauty, wellness and fashion brands.",
+  "heading": "Work",
+  "intro": "Product animation and CGI for gaming, beauty, wellness and fashion brands.",
+  "empty": "No projects in this vertical yet.",
+  "none": "Projects are on their way. In the meantime, send us a brief and we'll share relevant work directly.",
+
+  "project": {
+    "overview": "Overview",
+    "approach": "Our approach",
+    "deliverables": "Deliverables",
+    "result": "Result",
+    "back": "Back to all work",
+    "ctaHeading": "Have a product like this? Send us a brief."
+  }
+}

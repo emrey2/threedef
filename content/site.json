@@ -1,0 +1,49 @@
+{
+  "name": "3Def Creative",
+  "url": "https://3def.studio",
+  "_todo_url": "[TODO: confirm the live domain above. It is used for canonical links, the sitemap and share images]",
+  "description": "3Def Creative is a product animation studio in Turkey, making CGI visuals for gaming, beauty, wellness and fashion brands.",
+
+  "email": "hey@3def.studio",
+  "_todo_email": "[TODO: confirm the business email]",
+
+  "social": {
+    "instagram": "",
+    "behance": "",
+    "linkedin": "",
+    "_todo": "[TODO: add Instagram, Behance and LinkedIn URLs. Empty ones are hidden]"
+  },
+
+  "location": {
+    "city": "[TODO: city]",
+    "country": "Turkey",
+    "footerLine": "Based in Turkey. Working worldwide."
+  },
+
+  "owner": {
+    "name": "[TODO: owner name]Your name",
+    "role": "[TODO: owner role]Founder and 3D artist",
+    "portrait": "media/portrait-placeholder.jpg",
+    "portraitAlt": "[TODO: describe the real portrait]Portrait placeholder"
+  },
+
+  "showreel": {
+    "loopMp4": "",
+    "loopWebm": "",
+    "poster": "media/showreel-poster.jpg",
+    "posterAlt": "[TODO: describe the real poster frame]Showreel poster placeholder",
+    "fullReelUrl": "",
+    "_todo": "[TODO: add the showreel loop (public/media/showreel.mp4 and .webm), a real poster frame, and the full reel URL (Vimeo, YouTube or an .mp4)]"
+  },
+
+  "form": {
+    "endpoint": "",
+    "_todo": "[TODO: paste your Formspree endpoint, e.g. https://formspree.io/f/abcdwxyz. Until then the form opens the visitor's email app]"
+  },
+
+  "nav": [
+    { "label": "Work", "href": "/work" },
+    { "label": "About Us", "href": "/about" }
+  ],
+  "briefLabel": "Send a brief"
+}
